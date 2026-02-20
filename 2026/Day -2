@@ -1,0 +1,35 @@
+# 📊 Advanced Excel Power Query Automation – Day 2
+
+## 🚀 Project Overview
+This project demonstrates how to automate the consolidation of multiple daily Excel files using Power Query in Excel.
+
+The solution dynamically combines files from a folder, cleans the data, and enables one-click refresh when new files are added.
+
+---
+
+## 🎯 Key Objectives
+- Automate daily file consolidation
+- Perform real-world data cleaning
+- Apply correct data types
+- Enable scalable refresh mechanism
+
+---
+
+## 🛠️ Tools Used
+- Microsoft Excel
+- Power Query
+- Folder-based automation
+
+---
+
+## ⚙️ Key Features
+✅ Folder-based file ingestion  
+✅ Automatic file combination  
+✅ Trim & Clean transformations  
+✅ Data type standardization  
+✅ One-click Refresh All  
+✅ Source file tracking  
+
+---
+
+## 📂 Folder Structure
