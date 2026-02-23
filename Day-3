@@ -1,1 +1,61 @@
+📊 Retail Sales Performance Dashboard
 
+Tools Used: MySQL | Power BI
+
+🔍 Project Overview
+
+This project analyzes retail sales data using SQL for data processing and Power BI for visualization. The goal was to generate business KPIs, identify trends, and build an executive-level dashboard.
+
+🛠 Steps Performed
+
+Imported sales data into MySQL
+
+Performed KPI calculations using SQL
+
+Analyzed:
+
+Total Sales
+
+Total Profit
+
+Profit Margin
+
+Monthly Sales Trend
+
+Sales by Region
+
+Sales by Category
+
+Top 10 Customers
+
+Connected MySQL to Power BI
+
+Built interactive dashboard with KPI cards and charts
+
+📈 Key Insights
+
+Total Sales reached 12.59M with 1.10M profit
+
+South region contributes highest revenue
+
+Technology is the top-performing category
+
+Sales peak observed in January
+
+Top customers contribute significant revenue (Pareto trend)
+
+
+
+
+
+🎯 Business Value
+
+This dashboard helps stakeholders:
+
+Monitor revenue & profitability
+
+Identify high-performing regions
+
+Track monthly sales trends
+
+Understand customer contribution
