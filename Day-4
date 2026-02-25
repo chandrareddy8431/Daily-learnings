@@ -1,0 +1,72 @@
+📊 Sales Data Analysis Using Python
+🔍 Project Overview
+
+This project analyzes a raw sales dataset from Kaggle to identify sales trends, top-performing products, regional performance, and actionable business insights using Python.
+
+📁 Dataset
+
+Source: Kaggle (Superstore Sales Dataset)
+
+File: sales_data.csv
+
+🛠 Tools & Libraries
+
+Python
+
+Pandas
+
+
+
+Matplotlib
+
+🔄 Data Cleaning Steps
+
+Inspected data structure and data types
+
+Handled missing values in Sales, Profit, and Discount
+
+Removed duplicate records
+
+Converted Order Date to datetime format
+
+Created new columns:
+
+Cost = Sales − Profit
+
+Month from Order Date
+
+📈 Analysis Performed
+
+Total sales and profit by month
+
+Top 5 products by sales
+
+Sales by region
+
+Outlier detection using IQR method
+
+📊 Visualizations
+
+Monthly Sales Trend (Line Chart)
+
+Sales by Region (Bar Chart)
+
+💡 Key Business Insights
+
+Sales show seasonal trends across months
+
+A small set of products contributes most of the revenue
+
+Regional sales performance varies significantly
+
+📦 Project Outputs
+
+cleaned_sales_data.csv
+
+Sales charts (.png)
+
+Analysis report (.pdf)
+
+✅ Conclusion
+
+This analysis provides insights that can support business decisions related to inventory planning, marketing focus, and regional growth strategies.
